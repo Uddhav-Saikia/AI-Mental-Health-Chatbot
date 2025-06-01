@@ -1,15 +1,34 @@
-# RASA-Mental-Health-Chatbot
+# RASA Mental Health Chatbot
 
-Mental health chatbot developed in RASA Framework, to analyse person's chances of mental illness on the basis of survey questionnaire. Have a fun conversation with the bot and upplift your mood!
+A chatbot designed to support mental health and preliminary self-assessment. Developed using the RASA Framework, the chatbot engages users through natural conversation and a structured questionnaire to gauge potential mental health concerns. Beyond assessment, it offers friendly interaction aimed at uplifting the user's mood and providing a supportive experience.
 
-# Made using RASA Framework
+## Features
 
-RASA is an open-source framework used to Build contextual AI assistants and chatbots in text and voice with open source machine learning framework.
+- **Interactive Survey:** The bot asks relevant questions based on mental health indicators to estimate the user's mental well-being.
+- **Conversational Engagement:** Allows casual chat to create a comfortable environment, reducing stigma around mental health discussions.
+- **Contextual Understanding:** Utilizes RASA framework's machine learning capabilities to understand user intent and maintain meaningful dialogue.
 
-# Mental Health Chatbot development and Getting Started with RASA:
-Checkout my blog for instructions from RASA Installation to developing chatbots : [My Medium Blog](https://medium.datadriveninvestor.com/rasa-ai-chatbot-for-mental-health-1b3f13827ce3)
+## Built with RASA Framework
 
-# Demonstration:
+RASA is a powerful, open-source framework for building contextual AI assistants and chatbots. It enables developers to create complex conversational agents capable of handling text and voice inputs. RASA’s modular architecture combines natural language processing (NLP) and dialogue management to deliver personalized and relevant user experiences.
 
-<img src= "https://github.com/stutisehgal/RASA-Mental-Health-Chatbot/blob/master/rasa%20op.PNG">
+Key advantages of RASA include:
 
+- Open-source and community-driven with frequent updates
+- Supports custom machine learning models
+- Flexible integration with APIs and external systems
+- Strong support for multi-turn conversations and contextual memory
+
+
+## Use Cases
+
+- Preliminary mental health screening in a non-clinical setting
+- Educational tool to raise awareness about mental well-being
+- Companion bot to provide emotional support and encouragement
+- Research and data collection on common mental health trends (with user consent)
+
+## Limitations
+
+- The chatbot is not a substitute for professional diagnosis or therapy.
+- Results are indicative and should be interpreted cautiously.
+- Privacy and data security should be ensured when handling sensitive user inputs.
